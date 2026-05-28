@@ -5,7 +5,7 @@ Este é um projeto de exemplo para aprender a usar o GitHub com Pull Requests.
 ## Como usar
 
 1. Clone o repositório
-2. Faça suas alteraçoes
+2. Faça suas alterações
 3. Abra um Pull Request
 
 ## Contribuindo
